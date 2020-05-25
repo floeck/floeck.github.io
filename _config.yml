@@ -22,8 +22,10 @@ title: floeck-dev
 email: oskar.floeck@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My personal website in which my views blah blah blah. You know the drill.
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://floeck.dev" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: floeck
+enforce_ssl: floeck.dev
 
 # Build settings
 theme: minima
