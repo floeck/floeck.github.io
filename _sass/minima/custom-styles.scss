@@ -13,9 +13,28 @@
     padding-bottom: 15px;
 }
 
-//p.feed-subscribe{
-//    padding-bottom: 15px;
+// Center footer email content
+
+.footer-col-email, .footer-col-quote {
+     display: flex;
+     width: auto;
+}
+
+.footer-col-email {
+    padding-right: 40px;
+}
+
+.contact-list {
+    align-self: center;
+}
+
+// Change defaut h1 size
+
+//.post-title, .post-content h1{
+//    @include relative-font-size(2);
 //}
+
+// Some custom colour settings
 
 .site-title, .site-title:visited
 {
