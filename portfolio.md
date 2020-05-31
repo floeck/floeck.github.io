@@ -32,7 +32,7 @@ The website of the page you are currently on.
 
 ### [IoT-Uni-Assignment](https://github.com/matt-samuel-s3717393/IoT-Assignment3)
 
-A python flask projects based on a simple car hiring idea. Currently hidden as it is still on-going.
+A python flask project based on simple car hiring. Currently hidden as it is still on-going.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/matt-samuel-s3717393/IoT-Assignment3)
 ![GitHub top language](https://img.shields.io/github/languages/top/matt-samuel-s3717393/IoT-Assignment3)
