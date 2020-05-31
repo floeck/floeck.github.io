@@ -8,6 +8,6 @@
 layout: home
 ---
 
-### **Welcome to my site**
+### **Hey you, over there!**
 
-Below you may find and if you dare, explore the strange menagerie that is my thoughts in an all somewhat comrehensible form. By looking further, you may also discover that you can contact me, read into something that may or may not have anything to do with me, and see my portfolio, which consists of my current and completed projects.
+Below you may find and if you dare, explore the strange menagerie that is my mind and thoughts in an all somewhat comrehensible form. By looking further, you may also discover that you can contact me, read into something that may or may not have anything to do with me, and see my portfolio, where my projects come to rest. And usually mold.

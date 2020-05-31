@@ -4,8 +4,9 @@ title: contact
 permalink: /contact/
 ---
 
-You can reach me at...
+Other than the contact links scattered all over the site, namely email located in the footer of the page, where you can also find my LinkedIn and Twitter, you can also reach me by screaming directly into the air and or by [messenger pigeon](https://www.youtube.com/watch?v=SChP4wUEdhU). 
 
-<input class="favorite styled"
-       type="button"
-       value="Add to favorites">
+<blockquote> 
+Due to the recent influx of messenger pigeons please allow for delays. 
+</blockquote>
+
