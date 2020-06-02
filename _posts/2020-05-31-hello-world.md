@@ -2,13 +2,11 @@
 layout: post
 title: Hello, world
 date: 2020-05-31 13:36
-category: 
-author: Oskar Floeck
 tags: [me]
 summary: My first and hopefully not last blog post on my personal site.
 ---
 
-Dear reader,
+Dear Reader,
 
 So this is the first and hopefully not the last blog entry on my site. Since I have a habit of starting and stopping almost everything I do, you may not hear from me for a long time. If not the case, then you should be surprised.
 

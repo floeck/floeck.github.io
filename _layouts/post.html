@@ -16,7 +16,8 @@ layout: default
         <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
           {{ mdate | date: date_format }}
         </time>
-      {%- endif -%}
+      {%- endif -%} • 
+      {% include read-time.html content=content %}
       {%- if page.author -%}
         • {% for author in page.author %}
           <span itemprop="author" itemscope itemtype="http://schema.org/Person">
