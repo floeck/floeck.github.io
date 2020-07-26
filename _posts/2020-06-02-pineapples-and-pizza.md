@@ -23,7 +23,7 @@ As I'm writing this I also have three assignments due in less than 12 days worth
 
 Anyways, get and more importantly, keep in touch with those who you hold close to your heart. In this severely digitized age, it can be easy to feel lost. Just the other day I received a text from a friend of mine asking how I was doing, and since I have sparse social media nowadays, namely just Snapchat for the purposes of getting vital dog updates from my sister back home, it was quite the surprise. It just doesn't have the same weight to it a damn 'tag' has, or a like. I truly believe social media overuse is a massive problem we have not even begun to see the effects of yet. Also, I do apologies to my friends for being an absolute pain in the ass to invite and coordinate with, but I could not go back to how I was living before. The way it changed I looked at things. I fear we are not ready for this level of ~~connection~~ disconnection.
 
-I can't end on a note like that, so instead I'm going to tell you a random fact about water bears. For those of you who do not know, water bears, aka moss piglets or more scientifically.. [tardigrades](https://en.wikipedia.org/wiki/Tardigrade), are a water-dwelling microsocpic micro-animal. It turns out we've left some on the moon.
+I can't end on a note like that, so instead I'm going to tell you a random fact about water bears. For those of you who do not know, water bears, aka moss piglets or more scientifically.. [tardigrades](https://en.wikipedia.org/wiki/Tardigrade), are a water-dwelling microscopic micro-animal. It turns out we've left some on the moon.
 
 Until next time, Oskar
 
